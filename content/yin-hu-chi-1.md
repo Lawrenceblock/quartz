@@ -1,7 +1,7 @@
 
 ---
 title: 饮虎池
-draft: false
+permalink: yin-hu-chi-1
 ---
 
 这里是第一章的正文内容...
