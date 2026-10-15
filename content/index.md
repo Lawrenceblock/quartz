@@ -19,9 +19,9 @@ title: 首页
 
 ## 开始阅读
 
+开始阅读
 
-[[./public/yin-hu-chi-1.md]]
-
+[[yin-hu-chi-1|从第一章开始]]
 
 
 关于这部小说
