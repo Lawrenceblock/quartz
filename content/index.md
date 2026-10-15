@@ -20,7 +20,7 @@ title: 首页
 ## 开始阅读
 
 
-[从第一章开始](/content/yin-hu-chi-1)
+[从第一章开始](./content/yin-hu-chi-1)
 
 
 
