@@ -1,8 +1,6 @@
 
 ---
 title: 饮虎池
-
-permalink: yin-hu-chi-1
 ---
 
 
