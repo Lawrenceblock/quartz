@@ -2,8 +2,9 @@
 title: 首页
 ---
 
-<img src="images/banner.png" alt="宰生刀" width="600">
-
+<img src="images/zaishengdao-banner.webp"
+     alt="《宰生刀》——明末济南西关"
+     style="width:100%; height:auto;">
 
 # 宰生刀
 
