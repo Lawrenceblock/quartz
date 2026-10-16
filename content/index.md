@@ -2,6 +2,8 @@
 title: 首页
 ---
 
+<img src="images/banner.png" alt="宰生刀" width="600">
+
 
 # 宰生刀
 
