@@ -19,7 +19,7 @@ title: 首页
 
 ## 开始阅读
 
-[hi第一章开始](yin-hu-chi-1)
+[hi第一章开始](yin-hu-chi-1.md)
 
 
 关于这部小说
