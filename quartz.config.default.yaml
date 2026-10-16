@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 小说《宰生刀》连载
+  pageTitle: 《宰生刀》
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
