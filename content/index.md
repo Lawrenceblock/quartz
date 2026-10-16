@@ -53,9 +53,6 @@ title: 首页
 
 <img src="images/author-cui-haoxin.jpg" alt="作者画像" width="200">
 
-
-![作者画像](images/author-cui-haoxin.jpg)
-
 ## 作者
 
 安然
