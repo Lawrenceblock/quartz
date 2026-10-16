@@ -1,10 +1,8 @@
 name: Deploy Quartz site to Pages
 
-
 on:
   push:
-    branches:
-      - v5  # 如果你的 GitHub 仓库主分支名是 main，请把这里改成 main
+    branches: ["v5"]  # 如果你的默认分支是 main，请把 v5 改成 main
 
 permissions:
   contents: read
@@ -38,7 +36,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: public  # 关键点：明确指定发布 public 编译生成的 HTML 文件夹
 
   deploy:
     environment:
