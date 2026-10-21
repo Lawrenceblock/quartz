@@ -1,12 +1,9 @@
 ---
 title: 首页
 ---
-
 <img src="images/zaishengdao-banner.webp"
      alt="《宰生刀》——明末济南西关"
      style="width:100%; height:auto;">
-
-
 
 # 宰生刀
 
@@ -24,7 +21,7 @@ title: 首页
 
 ## 开始阅读
 
-[从第一章第一节开始](yin-hu-chi-1.md)
+[从第一章第一节开始](回营小说/novel.ismaelan.com/content/yin-hu-chi-1.md)
 
 
 关于这部小说
@@ -60,7 +57,7 @@ title: 首页
 
 ## 作者
 
-安然
+[安然](https://bio.ismaelan.com/life)
 
 > 写作中的小说，不一定知道自己最终会走向哪里。
 >
