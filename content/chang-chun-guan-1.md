@@ -1,13 +1,10 @@
 ---
-title: 长春观(一)
-author: 安然（崔浩新）
+title: 长春观（一）
+author: 安然
 date: 2026-10-16
 source: 宰生刀
 location: 济南
 ---
-
-长春观
-
 
 ## 一
 
