@@ -21,7 +21,7 @@ title: 首页
 
 ## 开始阅读
 
-[从第一章第一节开始](回营小说/novel.ismaelan.com/content/yin-hu-chi-1.md)
+[从第一章第一节开始](回营小说/novel.ismaelan.com/content/yin-hu-chi-1)
 
 
 关于这部小说
