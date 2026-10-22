@@ -1,0 +1,47 @@
+{
+  "name": "prev-next",
+  "version": "1.0.0",
+  "description": "上一章 / 目录 / 下一章 navigation derived from a frontmatter order field.",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components/index.js"
+  },
+  "main": "./index.js",
+  "quartz": {
+    "name": "prev-next",
+    "displayName": "Prev / Next",
+    "category": [
+      "component"
+    ],
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "orderField": "chapter",
+      "tocSlug": "toc",
+      "tocLabel": "目录"
+    },
+    "components": {
+      "PrevNext": {
+        "displayName": "Prev / Next",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 20
+      }
+    },
+    "optionSchema": {
+      "orderField": {
+        "type": "string"
+      },
+      "tocSlug": {
+        "type": "string"
+      },
+      "tocLabel": {
+        "type": "string"
+      }
+    }
+  }
+}

@@ -4,6 +4,8 @@ author: 安然
 date: 2026-10-16
 source: 宰生刀
 location: 济南
+chapter: 3
+
 ---
 
 ## 三

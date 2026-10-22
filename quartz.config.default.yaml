@@ -153,6 +153,15 @@ plugins:
     layout:
       position: right
       priority: 50
+  - source: "./quartz-plugins/prev-next"
+    enabled: true
+    options:
+      orderField: chapter
+      tocSlug: toc
+      tocLabel: 目录
+    layout:
+      position: afterBody
+      priority: 20
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
