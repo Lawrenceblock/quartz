@@ -58,4 +58,9 @@ Quartz v5 支持本地插件（`source: "./quartz-plugins/xxx"`，构建时软�
 ## 已知问题
 
 - 曾有一个文件名带换行的坏 workflow（`.github/workflows/deploy.yml\n`），已于 2026-10 删除。
+
+## 协作记录
+
+- `content/ban-ben.md`「协作与版本」页：记作者、协作工具（据作者口述）、OpenHands 工作记录（附 commit hash）、查核分寸、分工。
+- **原则**：仓库与提交记录里查不到的贡献，一律标「据作者口述」或「待作者补记」，**不代其他工具编造贡献**。与考据同例：宁阙勿诬。
 - `quartz.config.default.yaml` 里的 `build-preview.yaml` / `deploy-v5.yaml` / `deploy-preview.yaml` / `docker-build-push.yaml` 是上游 Quartz 自带的，条件为 `github.repository == 'jackyzha0/quartz'`，在本仓库永远 skip，属正常。
