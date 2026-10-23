@@ -37,5 +37,6 @@ date: 2026-10-21
 - [山东大旱蝗](./shiliao/shan-dong-da-han-huang)
 - [王象春（1578—1632）](./shiliao/wang-xiang-chun)
 - [孔有德之乱（1631）](./shiliao/kong-you-de-zhi-luan)
+- [诗会人物（崇祯十一年济南文士考）](./shiliao/shi-hui-ren-wu)
 
 ## [小说与史料的异同](./shiliao/yi-tong)
