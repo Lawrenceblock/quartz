@@ -64,3 +64,17 @@ Quartz v5 支持本地插件（`source: "./quartz-plugins/xxx"`，构建时软�
 - `content/ban-ben.md`「协作与版本」页：记作者、协作工具（据作者口述）、OpenHands 工作记录（附 commit hash）、查核分寸、分工。
 - **原则**：仓库与提交记录里查不到的贡献，一律标「据作者口述」或「待作者补记」，**不代其他工具编造贡献**。与考据同例：宁阙勿诬。
 - `quartz.config.default.yaml` 里的 `build-preview.yaml` / `deploy-v5.yaml` / `deploy-preview.yaml` / `docker-build-push.yaml` 是上游 Quartz 自带的，条件为 `github.repository == 'jackyzha0/quartz'`，在本仓库永远 skip，属正常。
+
+## 网站结构：专项研究页与条目页（2026-10）
+
+- 四个专项页 `content/ren-wu.md`（人物）、`content/di-fang.md`（地方）、`content/shi-liao.md`（史料）、`content/zha-ji.md`（札记）**只保留条目链接**。
+- 条目正文分置于四个与 `content/` 有别的文件夹：`content/renwu/`、`content/difang/`、`content/shiliao/`、`content/zhaji/`（英文目录名，避免中文 slug 在 URL 里的编码问题）。
+- **这四个目录不出现在首页左侧栏**——左侧栏只展示小说章节。实现方式是在 `quartz.ts` 里给 explorer 组件注入 `filterFn`：
+  ```ts
+  componentRegistry.setOptionOverrides("@quartz-community/explorer", {
+    filterFn: (node) => node.slugSegment !== "tags" &&
+      ["renwu","difang","shiliao","zhaji"].indexOf(node.slugSegment) === -1,
+  })
+  ```
+  **注意**：`filterFn` 会被序列化成字符串、在浏览器端 `new Function` 执行，**不能引用外部变量**（路径名必须写死在函数体内）；且 `setOptionOverrides` 的键须为**完整 npm 名** `@quartz-community/explorer`，不是 `explorer`。
+- 条目页仍会被**搜索**收录，只是不进侧栏。新增条目：写进对应文件夹，并在专项页加一行 `- [标题](./目录/slug)`。
