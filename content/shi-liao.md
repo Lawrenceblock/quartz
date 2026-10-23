@@ -15,6 +15,7 @@ date: 2026-10-21
 - [《济南府历城县礼拜寺重修记》](./shiliao/li-bai-si-chong-xiu-ji)
 - [《济南府历城县礼拜寺重修记》碑文（全文）](./shiliao/li-bai-si-bei-wen)
 - [《来复铭》](./shiliao/lai-fu-ming)
+- [《来复铭》碑文（全文）](./shiliao/lai-fu-ming-bei-wen)
 - [崇祯十三年「清真」匾与宁阳王朱由椅](./shiliao/qing-zhen-bian)
 - [铁铉与西关回营](./shiliao/tie-xuan)
 - [并渡口：回营的后撤方向](./shiliao/bing-du-kou)
