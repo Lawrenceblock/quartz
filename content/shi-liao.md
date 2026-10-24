@@ -19,6 +19,7 @@ date: 2026-10-21
 - [马明（伊牧之）与《济南伊斯兰教碑刻笺注》](./shiliao/yimuzhi-maming)
 - [回营与军户：弘治碑上的武官（一条旁证）](./shiliao/hui-ying-jun-hu)
 - [陈氏孤儿（西关口传两说）](./shiliao/chen-shi-gu-er)
+- [西关回民语汇](./shiliao/xi-guan-hui-min-yu-hui)
 - [崇祯十三年「清真」匾与宁阳王朱由椅](./shiliao/qing-zhen-bian)
 - [铁铉与西关回营](./shiliao/tie-xuan)
 - [并渡口：回营的后撤方向](./shiliao/bing-du-kou)
