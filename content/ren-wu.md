@@ -20,6 +20,11 @@ date: 2026-10-21
 
 - [刘文达（刘秀才）](./renwu/liu-wen-da)
 - [季木先生（王象春）](./renwu/ji-mu-xian-sheng)
+- [怀晋](./renwu/huai-jin)
+- [郝炯](./renwu/hao-jiong)
+- [郝焜](./renwu/hao-kun)
+
+> **诗会宾主**：叶承宗（主盟）、怀晋、郝炯、郝焜、刘敕，另见 [史料 · 诗会人物考](./shiliao/shi-hui-ren-wu)。
 ## 三、回营与街市中人
 
 - [金叔](./renwu/jin-shu)
