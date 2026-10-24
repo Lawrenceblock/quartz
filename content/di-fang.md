@@ -18,6 +18,7 @@ date: 2026-10-21
 ## 二、西关街巷
 
 - [饮虎池](./difang/yin-hu-chi)
+- [白龙湾](./difang/bai-long-wan)
 - [大庵巷](./difang/da-an-xiang)
 - [城顶](./difang/cheng-ding)
 - [丁字街](./difang/ding-zi-jie)
@@ -27,7 +28,7 @@ date: 2026-10-21
 
 - [西门（泺源门）](./difang/xi-men)
 - [南山](./difang/nan-shan)
-- [大明湖 · 白雪楼 · 见山亭](./difang/da-ming-hu)
+- [大明湖 · 白雪楼 · 问山亭](./difang/da-ming-hu)
 - [贡院](./difang/gong-yuan)
 
 ## [地理小识](./difang/di-li-xiao-shi)
