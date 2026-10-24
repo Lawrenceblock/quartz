@@ -20,10 +20,12 @@
 
 ## 仓库结构
 
-- `content/` — 全部内容，扁平结构（**没有子目录**）
-  - 正文：`yin-hu-chi-1..3`、`cheng-ding-1..2`、`chang-chun-guan-1..2`
-  - 相关页：`index`、`toc`、`ren-wu`（人物）、`di-fang`（地方）、`shi-liao`（史料）、`zha-ji`（札记）
+- `content/` — 全部内容
+  - 顶层页：`index`、`toc`、`ren-wu`、`di-fang`、`shi-liao`、`zha-ji`、`ban-ben`
+  - 正文：`yin-hu-chi-1..3`、`cheng-ding-1..2`、`chang-chun-guan-1..2`（顶层）
+  - 子目录：`renwu/`（人物）、`difang/`（地方）、`shiliao/`（史料）、`zhaji/`（札记）、`yuyan-jiyi/`（济南回民语言与记忆）
   - `content/images/` — 图片
+  - **新增一类页时，须在对应顶层页（如 `shi-liao.md`）加入链接，否则站内不可达。**
 - `quartz.config.default.yaml` — 站点配置 + 插件列表（**不是 `quartz.config.ts`**）
 - `quartz-plugins/` — 本站自写的本地插件（见下）
 - `.github/workflows/static.yml` — 唯一生效的部署流程（push 到 `v5` → GitHub Pages）
