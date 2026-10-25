@@ -22,7 +22,7 @@
 
 - `content/` — 全部内容
   - 顶层页：`index`、`toc`、`ren-wu`、`di-fang`、`shi-liao`、`zha-ji`、`ban-ben`
-  - 正文：`yin-hu-chi-1..3`、`cheng-ding-1..2`、`chang-chun-guan-1..2`（顶层）
+  - 正文：`yin-hu-chi-1..3`、`cheng-ding-1..2`、`chang-chun-guan-1..2`、`ya-ji-1..3`（顶层）
   - 子目录：`renwu/`（人物）、`difang/`（地方）、`shiliao/`（史料）、`zhaji/`（札记）、`yuyan-jiyi/`（济南回民语言与记忆）
   - `content/images/` — 图片
   - **新增一类页时，须在对应顶层页（如 `shi-liao.md`）加入链接，否则站内不可达。**
