@@ -32,6 +32,10 @@ date: 2026-10-21
 - [五姑与大兰官儿](./renwu/wu-gu-yu-da-lan-guan-er)
 - [杨家](./renwu/yang-jia)
 
+## 四、王府
+
+- [宁阳王（朱由椅）](./renwu/ning-yang-wang)
+
 ## [陈家先人（历史）](./renwu/chen-jia-xian-ren)
 
 ## [关系速览](./renwu/guan-xi-su-lan)
