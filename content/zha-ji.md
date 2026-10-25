@@ -16,6 +16,8 @@ date: 2026-10-21
 
 ## [考据的取舍](./zhaji/kao-ju-qu-she)
 
+## [华不注两首](./zhaji/hua-bu-zhu-shi)
+
 ## [留白](./zhaji/liu-bai)
 
 ## [待办](./zhaji/dai-ban)
