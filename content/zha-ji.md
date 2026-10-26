@@ -18,6 +18,8 @@ date: 2026-10-21
 
 ## [华不注两首](./zhaji/hua-bu-zhu-shi)
 
+## [状纸写法](./zhaji/zhuang-zhi)
+
 ## [留白](./zhaji/liu-bai)
 
 ## [待办](./zhaji/dai-ban)
