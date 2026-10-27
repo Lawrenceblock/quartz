@@ -36,6 +36,10 @@ date: 2026-10-21
 
 - [宁阳王（朱由椅）](./renwu/ning-yang-wang)
 
+## 五、官面人物
+
+- [宋张苟韩四公](./renwu/si-gong)（《历城县（一）》左堂口中的四人：宋学朱、张秉文、苟好善、韩承宣）
+
 ## [陈家先人（历史）](./renwu/chen-jia-xian-ren)
 
 ## [关系速览](./renwu/guan-xi-su-lan)
