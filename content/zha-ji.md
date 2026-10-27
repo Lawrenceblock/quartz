@@ -20,6 +20,8 @@ date: 2026-10-21
 
 ## [状纸写法](./zhaji/zhuang-zhi)
 
+## [ChatGPT 评《宰生刀》（附按语）](./zhaji/chatgpt-ping)
+
 ## [留白](./zhaji/liu-bai)
 
 ## [待办](./zhaji/dai-ban)
