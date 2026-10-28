@@ -22,6 +22,8 @@ date: 2026-10-21
 
 ## [ChatGPT 评《宰生刀》（附按语）](./zhaji/chatgpt-ping)
 
+## [东野圭吾式的改法（附大兰官儿设计）](./zhaji/dong-ye-zhi-wei)
+
 ## [留白](./zhaji/liu-bai)
 
 ## [待办](./zhaji/dai-ban)
