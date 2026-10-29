@@ -24,6 +24,8 @@ date: 2026-10-21
 
 ## [东野圭吾式的改法（附大兰官儿设计）](./zhaji/dong-ye-zhi-wei)
 
+## [关于走向的一些想法（OpenHands 撰）](./zhaji/zou-xiang-si-kao)
+
 ## [留白](./zhaji/liu-bai)
 
 ## [待办](./zhaji/dai-ban)
