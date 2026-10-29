@@ -27,6 +27,7 @@ date: 2026-10-21
 - [祭田：明亡后朱家所恃者](./shiliao/ji-tian)
 - [私宰耕牛：律、例与万历杨四知事](./shiliao/si-zai-geng-niu)
 - [崇祯朝历城知县（职官考）](./shiliao/li-cheng-zhi-xian)
+- [钱粮与大户：贵养性为什么动不了李舍人](./shiliao/qian-liang-da-hu)
 - [《崇祯历城县志》卷三·建置志：营、府、街](./shiliao/xian-zhi-juan-san)
 - [宁阳府：志书原文](./shiliao/ning-yang-fu)
 - [《齐音》](./shiliao/qi-yin)
