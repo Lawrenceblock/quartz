@@ -24,6 +24,8 @@ date: 2026-10-21
 
 ## [东野圭吾式的改法（附大兰官儿设计）](./zhaji/dong-ye-zhi-wei)
 
+## [年表（据 ChatGPT 整理，OpenHands 校订）](./zhaji/nian-biao)
+
 ## [关于走向的一些想法（OpenHands 撰）](./zhaji/zou-xiang-si-kao)
 
 ## [留白](./zhaji/liu-bai)
