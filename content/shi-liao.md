@@ -26,6 +26,7 @@ date: 2026-10-21
 - [仲宫的王陵与太甲山](./shiliao/zhong-gong-wang-ling)
 - [祭田：明亡后朱家所恃者](./shiliao/ji-tian)
 - [私宰耕牛：律、例与万历杨四知事](./shiliao/si-zai-geng-niu)
+- [崇祯朝历城知县（职官考）](./shiliao/li-cheng-zhi-xian)
 - [《崇祯历城县志》卷三·建置志：营、府、街](./shiliao/xian-zhi-juan-san)
 - [宁阳府：志书原文](./shiliao/ning-yang-fu)
 - [《齐音》](./shiliao/qi-yin)
