@@ -24,11 +24,14 @@ date: 2026-10-21
 - [丁字街](./difang/ding-zi-jie)
 - [长春观](./difang/chang-chun-guan)
 - [锦缠沟](./difang/jin-chan-gou)
+- [塔行街](./difang/ta-xing-jie)
 ## 三、城外与远方
 
 - [西门（泺源门）](./difang/xi-men)
 - [南山](./difang/nan-shan)
 - [大明湖 · 白雪楼 · 问山亭](./difang/da-ming-hu)
 - [贡院](./difang/gong-yuan)
+- [东关](./difang/dong-guan)
+- [胡千户井](./difang/hu-qian-hu-jing)
 
 ## [地理小识](./difang/di-li-xiao-shi)
