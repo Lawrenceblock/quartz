@@ -11,7 +11,7 @@ import { componentRegistry } from "./quartz/components/registry"
 componentRegistry.setOptionOverrides("@quartz-community/explorer", {
   filterFn: (node: any) =>
     node.slugSegment !== "tags" &&
-    ["renwu", "difang", "shiliao", "zhaji"].indexOf(node.slugSegment) === -1,
+    ["renwu", "difang", "shiliao", "zhaji", "pingdian"].indexOf(node.slugSegment) === -1,
 })
 
 const config = await loadQuartzConfig()
